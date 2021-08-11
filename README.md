@@ -5,6 +5,6 @@
 
 [React JS]{https://codesandbox.io/s/unruffled-smoke-uoe5g}
 
-{https://codesandbox.io/s/billowing-cherry-oh6bw}
+{https://codesandbox.io/s/unruffled-smoke-uoe5g?file=/src/Lists.js}
 
 {https://codesandbox.io/s/conditional-oh6bw?file=/CondRender.js}
